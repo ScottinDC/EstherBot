@@ -3,14 +3,14 @@
     "HELLO": "Hey there, how's it going? Are you interested in learning more about Scott?",
     "TELL ME ABOUT YOURSELF": "I studied visual communications tech in college, which lead me on the path I've been on up until today.  I joined the Peace Corps after college, and when I returned I moved to DC where I worked in social media and SEO at Idealist. After that I was with the Sunlight Foundation and continued in social media, SEO, digital marketing, analytics and strategy. I worked at NPR in digital anlaysis and SEO and then went on to do consulting for the next few years.",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "HOW OLD ARE YOU": "I am 39",
-    "WHAT ARE YOUR HOBBIES": "I enjoy music, film, travel, reading, checking out new restaurants and hanging out with family and friends",
+    "HOW OLD ARE YOU?": "I am 39",
+    "WHAT ARE YOUR HOBBIES?": "I enjoy music, film, travel, reading, checking out new restaurants and hanging out with family and friends",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "WHAT ARE YOUR WEAKNESSES":"Great question, often I take on more work than I should, which can be stressing.",
-    "WHY DO YOU WANT TO WORK HERE": "The job description felt like a good fit for my skillset and I think the work you are doing is quite innovative.",
+    "WHAT ARE YOUR WEAKNESSES?":"Great question, often I take on more work than I should, which can be stressing.",
+    "WHY DO YOU WANT TO WORK HERE?": "The job description felt like a good fit for my skillset and I think the work you are doing is quite innovative.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "WHAT SALARY ARE YOU SEEKING": "I'd like to find a wage that is sustaining, considering the price of housing in the area.  I would be comfortable in the $90,000 - $100,000 range",
-    "WHAT'S YOUR SALARY RANGE": "I'd like to find a wage that is sustaining, considering the price of housing in the area.  I would be comfortable in the $90,000 - $100,000 range",
-    "WHAT ARE YOUR GOALS": "I would like to find a position that's challenging and rewarding in a stable environment."
+    "WHAT SALARY ARE YOU SEEKING?": "I'd like to find a wage that is sustaining, considering the price of housing in the area.  I would be comfortable in the $90,000 - $100,000 range",
+    "WHAT'S YOUR SALARY RANGE?": "I'd like to find a wage that is sustaining, considering the price of housing in the area.  I would be comfortable in the $90,000 - $100,000 range",
+    "WHAT ARE YOUR GOALS?": "I would like to find a position that's challenging and rewarding in a stable environment."
 }
