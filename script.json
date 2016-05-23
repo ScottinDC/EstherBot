@@ -1,12 +1,23 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Scott Stadum's CV, a Digital Strategist originally from Ohio though I've lived all over, including five countries",
     "HELLO": "Hey there, how's it going? Are you interested in learning more about Scott?",
+    "HOW ARE YOU?": "Hey there, how's it going? Are you interested in learning more about Scott?",
+    "WHERE ARE YOU FROM ORIGINALLY?": "I grew up in a small farming community in southeast Ohio, called Cambridge.",
+    "WHERE ARE YOU FROM?": "I grew up in a small farming community in southeast Ohio, called Cambridge.",
+    "DO YOU HAVE BROTHERS AND SISTERS?": "I have two older sisters, I'm the youngest, and six step-siblings.",
+    "HOW DID YOU HEAR ABOUT THE POSITION?": "Usually through a listing online, like Linkedin or Indeed.com.",
+    "WHAT DO YOU KNOW ABOUT THE COMPANY?": "I know your work is innovative and that traditionally you have done very well for yourselves, and that it's a place I'd like to work.",
+    "WHAT ARE YOUR GREATEST STRENGTHS?": "I consider myself adepts at both persuasive communication and relationship building. Those are both strengths I work early on to leverage.",
+    "WHAT IS YOUR GREATEST ACHIEVEMENT?": "That would be the founding on my nonprofit, called FROG.  We give microgrants to Peace Corps volunteers.  It's taken a lot of work but we've kept it going for nine years.",
+    "WHY ARE YOU LEAVING YOUR CURRENT JOB?": "Currently I'm freelancing and consulting.  I'm interested in more stability to be honest.",
     "TELL ME ABOUT YOURSELF": "I studied visual communications tech in college, which lead me on the path I've been on up until today.  I joined the Peace Corps after college, and when I returned I moved to DC where I worked in social media and SEO at Idealist. After that I was with the Sunlight Foundation and continued in social media, SEO, digital marketing, analytics and strategy. I worked at NPR in digital anlaysis and SEO and then went on to do consulting for the next few years.",
+    "TELL ME A LITTLE ABOUT YOURSELF": "I studied visual communications tech in college, which lead me on the path I've been on up until today.  I joined the Peace Corps after college, and when I returned I moved to DC where I worked in social media and SEO at Idealist. After that I was with the Sunlight Foundation and continued in social media, SEO, digital marketing, analytics and strategy. I worked at NPR in digital anlaysis and SEO and then went on to do consulting for the next few years.",
     "TELL HIM": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
     "HI SCOTT": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
     "TWEET SCOTT": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
     "HOW OLD ARE YOU?": "I am 39",
     "WHAT ARE YOUR HOBBIES?": "I enjoy music, film, travel, reading, checking out new restaurants and hanging out with family and friends",
+    "WHAT DO YOU LIKE TO DO OUTSIDE OF WORK?": "I enjoy music, film, travel, reading, checking out new restaurants and hanging out with family and friends",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "WHAT ARE YOUR WEAKNESSES?":"Great question, often I take on more work than I should, which can be stressing.",
     "WHY DO YOU WANT TO WORK HERE?": "The job description felt like a good fit for my skillset and I think the work you are doing is quite innovative.",
@@ -18,5 +29,17 @@
     "WHERE DO YOU LIVE NOW?": "I'm based in the Bay Area but travel quite a bit.",
     "DO YOU HAVE FAMILY?": "Not one of my own, but I have extended family all over the US.",
     "WHERE DO YOU SEE YOURSELF IN FIVE YEARS?": "I would like to be in a stable position, working for an organization I like working at a job I love.",
-    "DO YOU DRINK?": "No, I don't drink."
+    "DO YOU DRINK?": "No, I don't drink.",
+    "ARE YOU WILLING TO RELOCATE?": "Yes, I am.",
+    "ARE YOU WILLING TO TRAVEL?": "Definitely.",
+    "WHAT IS YOUR FAVORITE WEBSITE?": "It depends on the technology, but I tend to follow a lot of tech blogs, dozens of Google blogs, SEO Moz, Kottke.org, Boing Boing.net, Waxy.org, Mashable, Search Engine Land, Read Write Web.  I use Feedly and follow hundres of blogs, literally.",
+    "WHICH WEBSITES DO YOU READ?": "It depends on the technology, but I tend to follow a lot of tech blogs, dozens of Google blogs, SEO Moz, Kottke.org, Boing Boing.net, Waxy.org, Mashable, Search Engine Land, Read Write Web.  I use Feedly and follow hundres of blogs, literally.",
+    "WHAT WOULD YOU LOOK TO ACCOMPLISH IN THE FIRST 30 DAYS ON THE JOB?": "I'd like to begin with reviewing processes and tools, I'd like to get a feel for the people on the team and understand the culture of my team.  This is a great way to get started and feel connected to the work I'll be doing.",
+    "WHAT WOULD YOU LOOK TO ACCOMPLISH IN THE FIRST 90 DAYS ON THE JOB?": "I'd like to begin with reviewing processes and tools, I'd like to get a feel for the people on the team and understand the culture of my team.  This is a great way to get started and feel connected to the work I'll be doing.",
+    "HOW WOULD YOU HANDLE A DIFFICULT SITUATION?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
+    "HOW WOULD YOU HANDLE A STRESSFUL SITUATION?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
+    "HOW WOULD YOU HANDLE A STRESSFUL COWORKER?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
+    "TELL ME HOW YOU HANDLED A DIFFICULT SITUATION.": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
+    "WHAT WOULD YOU LOOK TO ACCOMPLISH IN THE FIRST 60 DAYS ON THE JOB?": "I'd like to begin with reviewing processes and tools, I'd like to get a feel for the people on the team and understand the culture of my team.  This is a great way to get started and feel connected to the work I'll be doing.",
+    "DO YOU HAVE ANY QUESTIONS FOR US?": "I do.  What is the size of the current time I'd like to work with?  Which tools to you use? What are your KPIs? What does an average day look like for someone in my position?"
 }
