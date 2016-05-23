@@ -26,6 +26,8 @@
     "TELL ME ABOUT YOURSELF": "I studied visual communications tech in college, which lead me on the path I've been on up until today.  I joined the Peace Corps after college, and when I returned I moved to DC where I worked in social media and SEO at Idealist. After that I was with the Sunlight Foundation and continued in social media, SEO, digital marketing, analytics and strategy. I worked at NPR in digital anlaysis and SEO and then went on to do consulting for the next few years.",
     "TELL ME A LITTLE ABOUT YOURSELF": "I studied visual communications tech in college, which lead me on the path I've been on up until today.  I joined the Peace Corps after college, and when I returned I moved to DC where I worked in social media and SEO at Idealist. After that I was with the Sunlight Foundation and continued in social media, SEO, digital marketing, analytics and strategy. I worked at NPR in digital anlaysis and SEO and then went on to do consulting for the next few years.",
     "TELL HIM": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
+    "WHICH SEO TOOLS DO YOU USE?": "A bunch really, Screaming Frog, Majestic, Ahref, Majestic, Pingdom, WooRank, Nibbler, Varvy and some other smaller one-off tools.",
+    "WHAT SEO TOOLS DO YOU USE?": "A bunch really, Screaming Frog, Majestic, Ahref, Majestic, Pingdom, WooRank, Nibbler, Varvy and some other smaller one-off tools.",
     "HI SCOTT": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
     "TWEET SCOTT": "Let's tweet @ Scott so he knows you're looking at his bot. Here's a tweet that's ready to go: %[Tweet Scott](http://ctt.ec/dJbC5)",
     "HOW OLD ARE YOU?": "I am 39",
@@ -52,7 +54,7 @@
     "HOW WOULD YOU HANDLE A DIFFICULT SITUATION?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
     "HOW WOULD YOU HANDLE A STRESSFUL SITUATION?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
     "HOW WOULD YOU HANDLE A STRESSFUL COWORKER?": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
-    "TELL ME HOW YOU HANDLED A DIFFICULT SITUATION.": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
+    "TELL ME HOW YOU HANDLED A DIFFICULT SITUATION": "I'd asses the situation, try and understand my options and review possible line of recourse.  I'd also work with my manager if the situations calls for that."
     "WHAT WOULD YOU LOOK TO ACCOMPLISH IN THE FIRST 60 DAYS ON THE JOB?": "I'd like to begin with reviewing processes and tools, I'd like to get a feel for the people on the team and understand the culture of my team.  This is a great way to get started and feel connected to the work I'll be doing.",
     "DO YOU HAVE ANY QUESTIONS FOR US?": "I do.  What is the size of the current time I'd like to work with?  Which tools to you use? What are your KPIs? What does an average day look like for someone in my position?"
 }
