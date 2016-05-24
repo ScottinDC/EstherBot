@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there! I’m the personal bot of Scott Stadum's CV, a Digital Strategist originally from Ohio though I've lived all over, including five countries!",
+    "#BOT": "Hi there! I’m the personal bot of Scott Stadum's CV, a Digital Strategist originally from Ohio though I've lived all over, including five countries!",
     "LINKEDIN": "Have you seen Scott's CV yet? Take a look: %[Go to LinkedIn](http://linkedin.com/in/scottstadum)",
     "CV": "Hey there, do you want a copy of Scott's CV? %[Download it from Dropbox](https://www.dropbox.com/s/n1imxbiask3ld8h/Scott%20Stadum%20Resume%202016.pdf?dl=0)",
     "ART": "I even have some digital art online, check it out! %[Go to Flickr](https://www.flickr.com/photos/broke_kid/albums/72157603619984370)",
@@ -188,6 +188,7 @@
     "ARE YOU WILLING TO RELOCATE?": "Yes, I am.",
     "DO YOU HAVE A DOG?": "No but I want one.  Maybe a Lab or a Border Collie",
     "ARE YOU WILLING TO TRAVEL?": "Definitely.",
+    "WHAT IS YOUR TITLE?": "I prefer the title digital strategist, but you can call me Scott :)",
     "WHAT'S YOUR FAVORITE TV SHOW?": "Maybe House of Cards, Game of Thrones too.",
     "WHAT IS YOUR FAVORITE WEBSITE?": "It depends on the technology, but I tend to follow a lot of tech blogs, dozens of Google blogs, SEO Moz, Kottke.org, Boing Boing.net, Waxy.org, Mashable, Search Engine Land, Read Write Web.  I use Feedly and follow hundres of blogs, literally.",
     "WHICH WEBSITES DO YOU READ?": "It depends on the technology, but I tend to follow a lot of tech blogs, dozens of Google blogs, SEO Moz, Kottke.org, Boing Boing.net, Waxy.org, Mashable, Search Engine Land, Read Write Web.  I use Feedly and follow hundres of blogs, literally.",
